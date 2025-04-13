@@ -1,1 +1,0 @@
-int eh_numero_armstrong(int n);

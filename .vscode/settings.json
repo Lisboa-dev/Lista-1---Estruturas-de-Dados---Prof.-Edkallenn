@@ -1,7 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "aio.h": "c",
-        "exercicio_3.h": "c"
-    }
-}
